@@ -11,6 +11,10 @@ h2,
   text-align: center;
 }
 
+#hero-img {
+  height: 460px;
+}
+
 .about-container {
   background-color: #bed7dc;
   padding-left: 12px;
@@ -33,6 +37,13 @@ h2,
   display: flex;
 }
 
+#restaurant-img {
+  height: 400px;
+}
+
+#food-snippets {
+  height: 200px;
+}
 .contact-container {
   background-color: #e7f0dc;
   padding-top: 12px;
@@ -52,5 +63,3 @@ h2,
 footer i {
   font-size: 40px;
 }
-
-
