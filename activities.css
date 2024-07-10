@@ -1,14 +1,14 @@
 .nav-item .nav-link {
-  color: #26355D;
+  color: #26355d;
 }
- 
+
 .nav-item .nav-link:hover {
-  color: #AF47D2;
+  color: #af47d2;
 }
 
 .activities-container {
   overflow: hidden;
-  background-color: #E7F0DC;
+  background-color: #e7f0dc;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 10px;
@@ -47,5 +47,10 @@
 }
 
 footer i {
-font-size: 40px;
+  font-size: 40px;
 }
+
+#card-imgs {
+  height: 300px;
+}
+
